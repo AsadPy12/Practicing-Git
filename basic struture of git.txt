@@ -1,0 +1,2 @@
+First of you should create a repository and after you go to the directory in which you want to locate it.
+Secondly you open git bash command into the same directory which you had created a repo folder.
